@@ -27,7 +27,7 @@ id=system_protector
 name=系统保护守护程序
 version=v1.4
 versionCode=5
-author=DeepSeek
+author=@好无聊—QQ=3488668121
 description=刷入时选择模式+精简系统备份
 support=暂时不提供下载地址
  
