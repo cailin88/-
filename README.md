@@ -29,7 +29,7 @@ version=v1.4
 versionCode=5
 author=DeepSeek
 description=刷入时选择模式+精简系统备份
-support=https://github.com/DeepSeek-AI/SystemProtector
+support=暂时不提供下载地址
  
  
 2. 按键检测工具 ( system/bin/keycheck )
